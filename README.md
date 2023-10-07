@@ -1,4 +1,2 @@
-# content-management-Tool
-# Bharat Intern Task-1 :
-Content Management Tool which is used for add images,videio and text that will be required to create a blog ! 
-
+# Content_Management_Tool
+A web page that helps you add text, images, videos, and other elements required to create a blog.
